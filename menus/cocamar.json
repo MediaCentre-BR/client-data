@@ -1,0 +1,33 @@
+{
+  "menu": [
+    {
+      "text": "Site Institucional",
+      "url": "https://www.cocamar.com.br/"
+    },
+    {
+      "text": "Nossas Unidades",
+      "url": "https://www.cocamar.com.br/unidades"
+    },
+    {
+      "text": "Notícias da Cooperativa",
+      "url": "https://www.cocamar.com.br/noticias"
+    },
+    {
+      "text": "Vagas COCAMAR",
+      "url": "https://jobs.kenoby.com/cocamar"
+    },
+    {
+      "text": "Produtos Energia Solar",
+      "url": "https://www.lojacocamar.com.br/energia-solar"
+    },
+    {
+      "text": "Rações Pet",
+      "url": "https://www.lojacocamar.com.br/Racoes-e-Suplementos-Minerais/Racoes-Pet"
+    },
+    {
+      "text": "SUPER PRODUTIVIDADE",
+      "url": "https://www.cocamar.com.br/pagina/categoria/super-produtividade"
+    }
+  ],
+  "about": "A Cocamar tem o orgulho de lançar um serviço exclusivo de dados agrometeorológicos. Com informações precisas baseadas nas geocoordenadas da sua propriedade, você poderá entender as condições climáticas e seus impactos na sua produção. Isso possibilita decisões mais informadas, apoiando o potencial da sua atividade agrícola. Na Cocamar, estamos comprometidos em oferecer ferramentas inovadoras e valiosas para os nossos cooperados."
+}
