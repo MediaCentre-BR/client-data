@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "text": "Quem Somos",
+      "url": "https://www.climanocampo.com.br"
+    },
+    {
+      "text": "Nossos Serviços",
+      "url": "https://www.climanocampo.com.br"
+    },
+    {
+      "text": "Nossa Tecnologia",
+      "url": "https://ajuda.climanocampo.com.br/sobre.html#b01"
+    },
+    {
+      "text": "Ajuda",
+      "url": "https://ajuda.climanocampo.com.br/"
+    },
+    {
+      "text": "Contato",
+      "url": "https://www.climanocampo.com.br"
+    }
+  ],
+  "about": "O CLIMA no Campo® é um serviço da meteoblue® desenvolvido com base no maior conjunto de dados agrometeorológicos do planeta."
+}
