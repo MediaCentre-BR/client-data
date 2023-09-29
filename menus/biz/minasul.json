@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "text": "Site Institucional",
+      "url": "https://minasul.com.br/"
+    },
+    {
+      "text": "Sobre a Minasul",
+      "url": "https://minasul.com.br/pt/institucional/sobre-a-minasul"
+    },
+    {
+      "text": "Colheita 2023",
+      "url": "https://minasul.com.br/colheita2023"
+    },
+    {
+      "text": "Notícias da Cooperativa",
+      "url": "https://minasul.com.br/noticias"
+    },
+    {
+      "text": "Portal da Cooperativa",
+      "url": "https://coopvga.minasul.com.br:1020/portal/p/Minasul/portal"
+    },
+    {
+      "text": "Fale Conosco",
+      "url": "https://minasul.com.br/faleconosco"
+    }
+  ],
+  "about": "O Clima da sua propriedade na palma da mão!"
+}
