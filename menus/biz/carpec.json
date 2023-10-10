@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "text": "Site Institucional",
+      "url": "https://www.carpec.com.br/"
+    },
+    {
+      "text": "Carpec no Facebook",
+      "url": "https://www.facebook.com/cooperativacarpec/?locale=pt_BR"
+    },
+    {
+      "text": "Carpec no Instagram",
+      "url": "https://www.instagram.com/cooperativacarpec/"
+    },
+    {
+      "text": "Carpec no LinkedIn",
+      "url": "https://br.linkedin.com/company/cooperativacarpec"
+    },
+    {
+      "text": "Carpec no YouTube",
+      "url": "https://www.youtube.com/channel/UChYbCjnqUKifxtFyz2ef7ug"
+    }
+  ],
+  "about": "Tenha em mãos os dados climáticos mais completos e atualizados da sua região."
+}
