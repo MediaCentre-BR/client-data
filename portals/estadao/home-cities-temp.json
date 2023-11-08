@@ -8,5 +8,25 @@
     "Campo-Grande-MS",
     "Betim-MG",
     "Osasco-SP"
+  ],
+  "tomorrow": [
+    "Blumenau-SC",
+    "Chapeco-SC",
+    "Criciuma-SC",
+    "Curitiba-PR",
+    "Cascavel-PR",
+    "Belo-Horizonte-MG",
+    "Uberlandia-MG",
+    "Natal-RN"
+  ],
+  "10d": [
+    "Sao-Paulo-SP",
+    "Praia-Grande-SP",
+    "Guaruja-SP",
+    "Bertioga-SP",
+    "Caraguatatuba-SP",
+    "Ubatuba-SP",
+    "Bombinhas-SC",
+    "Porto-Alegre-RS"
   ]
 }
